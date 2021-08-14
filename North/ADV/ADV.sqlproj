@@ -104,5 +104,6 @@
     <Build Include="dbo\Functions\udfTwoDigitZeroFill.sql" />
     <Build Include="Database Triggers\ddlDatabaseTriggerLog.sql" />
     <Build Include="dbo\Tables\Raj.sql" />
+    <Build Include="dbo\Tables\testtable2.sql" />
   </ItemGroup>
 </Project>
