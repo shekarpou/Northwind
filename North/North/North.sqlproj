@@ -100,5 +100,6 @@
     <Build Include="dbo\Stored Procedures\SalesByCategory.sql" />
     <Build Include="dbo\Stored Procedures\Ten Most Expensive Products.sql" />
     <Build Include="dbo\Tables\Table1.sql" />
+    <Build Include="dbo\Tables\Table2Raj.sql" />
   </ItemGroup>
 </Project>

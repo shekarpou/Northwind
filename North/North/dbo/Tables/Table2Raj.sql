@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Table2Raj]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
